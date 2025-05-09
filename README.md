@@ -1,7 +1,7 @@
 *This is a working list. I add to it as I find new tools and resources.*
 <br/>
 
-# 🔍 Analysis & Investigation
+# 🔍 Analysis & Investigation 🔍 
 <!-- Carving Tools --> 
 <details>
 <summary>Carving Tools</summary>
@@ -321,7 +321,7 @@
 <br/>
 <!-- Attack Simulation & Offense Category> -->
 
-# 🚩 Attack Simulation & Offense
+# 🚩 Attack Simulation & Offense 🚩 
 
 <!-- Reconnaissance (Information Gathering)-->
 <details>
@@ -706,7 +706,7 @@
 
 <br />
 
-# 🌐 AI & Search
+# 🌐 AI & Search 🌐
 
 <details>
 <!-- AI Search Engines -->
@@ -790,7 +790,7 @@
 
 <br/>
 
-# 🛡️ Defensive Operations
+# 🛡️ Defensive Operations 🛡️ 
 
 <!-- Defensive Cyber Skill Development -->
 
@@ -1092,7 +1092,7 @@
 <br/>
 
 <!-- Hands On & Training-->
-# 👨‍💻 Hands-On Skills & Training
+# 👨‍💻 Hands-On Skills & Training 👨‍💻
 
 <details>
 <summary>General Cyber Skills</summary>
@@ -1389,7 +1389,7 @@
 <br/>
 
 <!-- Tools & Platforms-->
-# 🛠️ Tools & Platforms
+# 🛠️ Tools & Platforms 🛠️
 
 
 

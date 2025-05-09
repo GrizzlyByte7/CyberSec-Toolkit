@@ -1,12 +1,9 @@
-# Cyber Resources
+*This is a working list. I add to it as I find new tools and resources.*
+<br/>
 
 # 🔍 Analysis & Investigation
-
-<details>
-
-
 <!-- Carving Tools --> 
-
+<details>
 <summary>Carving Tools</summary>
 
   - **Aorimn/Dislocker**  
@@ -49,7 +46,6 @@
 </details>
 
 ---
-
 <!-- Digital Forensic Frameworks --> 
 <details>
 <summary>Digital Forensics Frameworks</summary>
@@ -237,12 +233,8 @@
 </details>
 
 ---
-
-<details>
-
-
-
 <!-- Memory Forensics --> 
+<details>
 
 <summary>Memory Forensics</summary>
 
@@ -268,13 +260,8 @@
 </details>
 
 ---
-
-<details>
-
-
-
 <!-- OSINT --> 
-
+<details>
 <summary>OSINT</summary>
 
   - **IntelTechniques Search Tool**  
@@ -304,11 +291,8 @@
 </details>
 
 ---
-<details>
-
-
 <!-- Windows Artifact Analysis --> 
-
+<details>
 <summary>Windows Artifact Analysis</summary>
 
   - **KAPE**  
@@ -334,7 +318,7 @@
 
 </details>
 
----
+<br/>
 <!-- Attack Simulation & Offense Category> -->
 
 # 🚩 Attack Simulation & Offense
@@ -440,12 +424,10 @@
 
 ---
 
-
 <!-- Exploitation-->
 
 <details>
 <summary>Exploitation</summary>
-
 
 </details>
 
@@ -466,12 +448,10 @@
 <details>
 <summary>Reporting</summary>
 
-
+<!-- Active Directory -->
 </details>
 
 ---
-
-<!-- Active Directory -->
 <details>
 <summary>Active Directory</summary>
 
@@ -505,11 +485,10 @@
     [SharpHound | GitHub](https://github.com/BloodHoundAD/SharpHound3)
 
 
+<!-- Capture The Flags (CTFs) -->
 </details>
 
 ---
-
-<!-- Capture The Flags (CTFs) -->
 <details>
 <summary>Capture The Flags (CTFs)</summary>
 
@@ -555,12 +534,8 @@
 </details>
 
 ---
-
-<details>
-
-
-
 <!-- Pentesting References & Guides -->
+<details>
 
 <summary>Pentesting References & Guides</summary>
 
@@ -665,12 +640,8 @@
 </details>
 
 ---
-<details>
-
-
-
-
 <!-- Vulnerable Virtual Machines Hands-On -->
+<details>
 
 <summary>Vulnerable Virtual Machines Hands-On</summary>
 
@@ -701,11 +672,8 @@
 </details>
 
 ---
-<details>
-
-
-
 <!-- Web Penetration Testing & Training -->
+<details>
 
 <summary>Web Penetration Testing & Training</summary>
 
@@ -728,7 +696,7 @@
   - **Web Security Academy (Burp Suite)**  
     Web Security training path by PortSwigger Academy.  
     [Web Security Academy: Free Online Training from PortSwigger](https://portswigger.net/web-security)
----
+
 
 
 
@@ -736,7 +704,8 @@
 <!-- AI & Search section -->
 </details>
 
---- 
+<br />
+
 # 🌐 AI & Search
 
 <details>
@@ -780,10 +749,8 @@
 </details>
 
 ---
-<details>
-
-
 <!-- OSINT Tools -->
+<details>
 
 <summary>OSINT Tools</summary>
 
@@ -819,13 +786,15 @@
     An open-source intelligence automation tool with a web-based interface.  
     [Attack Surface Exposure](https://www.spiderfoot.net/)
 </details>
+<br/>
 
----
+<br/>
+
 # 🛡️ Defensive Operations
 
-<details>
-
 <!-- Defensive Cyber Skill Development -->
+
+<details>
 
 <summary>Defensive Cyber Skill Development</summary>
 
@@ -874,7 +843,6 @@
 </details>
 
 ---
-
 <!-- Incident Response -->
 <details>
 <summary>Incident Response</summary>
@@ -922,9 +890,7 @@
 
 </details>
 
-
 ---
-
 <!-- Threat Hunting -->
 <details>
 
@@ -962,11 +928,6 @@
 
 ---
 <details>
-
-
-
-
-
 <!-- Tactics, Techniques, and Procedures (TTPS) -->
 
 <summary>Tactics, Techniques, and Procedures (TTPS)</summary>
@@ -984,6 +945,9 @@
     [Introduction — Threat Hunter Playbook](https://threathunterplaybook.com/intro.html)
 
 </details>
+
+---
+<!--Detection Rules/Sigma and Blogs -->
 <details>
 <summary>Detection Rules/Sigma and Blogs</summary>
 
@@ -1009,7 +973,6 @@
 
 </details>
 
-
 ---
 
 <!-- Sysmon Logging -->
@@ -1025,9 +988,12 @@
     [GitHub - SwiftOnSecurity/sysmon-config: Sysmon configuration file template with default high-quality event tracing](https://github.com/SwiftOnSecurity/sysmon-config?tab=readme-ov-file)
 
 </details>
-<details>
-<summary>Splunk (Pre-Made Queries)</summary>
 
+---
+<!-- Splunk-->
+<details>
+
+<summary>Splunk (Pre-Made Queries)</summary>
 
   - **GoSplunk**  
     Message board where community posts splunk queries for a variety of occasions.  
@@ -1055,8 +1021,6 @@
 </details>
 
 ---
-
-
 <!-- Malware Analysis -->
 <details>
 
@@ -1125,7 +1089,7 @@
 ---
 </details>
 
---- 
+<br/>
 
 <!-- Hands On & Training-->
 # 👨‍💻 Hands-On Skills & Training
@@ -1161,9 +1125,7 @@
 
 </details>
 
-
 ---
-
 
 <!-- HANDS ON CYBER NESTED CATEGORIES INSIDE -->
 
@@ -1301,16 +1263,13 @@
   
 </details>
 
-
 ---
-
-
-
 
 <!-- Operating System Hands-On Section-->
 
 <details>
   <summary>Operating System Hands-On</summary>
+
   ---
   - **A Cloud Guru (Linux Academy)**  
     Hands-On Linux  
@@ -1333,44 +1292,35 @@
     [Resources for the Cryptic Windows Security Log](https://www.ultimatewindowssecurity.com/securitylog/default.aspx)
   ---
 
+  <!-- PowerShell Training -->
 </details>
 
-
 ---
-
-
-
-  <!-- PowerShell Training -->
 
   <details>
   <summary>PowerShell Training</summary>
 
   - **HackerSploit PowerShell Basics (YouTube)**  
     [HackerSploit PowerShell Basics](https://www.youtube.com/watch?v=aGVdIXxj8xk)
-  ---
+---
   - **HarmJ0y GitHub**  
     PowerView/PowerUp tools  
     [HarmJ0y - Overview](https://github.com/HarmJ0y)
-  
-  ---
+---
   - **Microsoft Learn PowerShell**  
     Official Training Site  
     [Introduction - PowerShell](https://learn.microsoft.com/en-us/powershell/scripting/learn/ps101/00-introduction?view=powershell-7.2)
-  ---
+---
   - **PowerShell Training**  
     [Wargames](https://underthewire.tech/wargames)
-  ---
+---
   - **PowerShell.org**  
     Various PowerShell blogs, games and forums  
     [Scripting Games – PowerShell.org](https://powershell.org/category/scripting-games/)
-  ---
+---
   </details>
 
-
 ---
-
-
-
 <!-- Scripting -->
 
   <details>
@@ -1379,24 +1329,23 @@
   - **Codewars**  
     A coding practice website for all programming levels  
     [Codewars - Achieve mastery through coding practice and developer mentorship](https://www.codewars.com/dashboard)
-  ---
+---
   - **freeCodeCamp**  
     Free coding website  
     [freeCodeCamp.org](https://www.freecodecamp.org/learn/)
-  ---
+---
   - **Hack The Box Scripting Challenge**  
     HTB scripting challenge  
     [Hack The Box](https://app.hackthebox.com/challenges/scripting)
-
-  ---
+---
   - **OverTheWire**  
     Classic CTF-style war games focusing on exploitation and privilege escalation.  
     [OverTheWire: Wargames](https://overthewire.org/wargames/)
-  ---
+---
   - **PentesterLab**  
     Web pentesting coding  
     [Master Web Hacking and Security Code Review!](https://pentesterlab.com/)
-  ---
+---
   - **Repl.it**  
     Online Coding IDE  
     [Replit – Build apps and sites with AI](https://replit.com/)
@@ -1406,6 +1355,7 @@
   <!-- Shells-->
 
 ---
+<!-- Shells-->
 <details>
 <summary>Shells</summary>
   
@@ -1433,17 +1383,10 @@
     PHP web shell payloads  
     [GitHub - JohnTroony/php-webshells: Common PHP webshells you might need for your Penetration Testing assignments or CTF challenges. Do not host the file(s) on your server!](https://github.com/JohnTroony/php-webshells)
   ---
+
 </details>
 
----
-
-
-
-
-<!-- Tools Section -->
-
---- 
-
+<br/>
 
 <!-- Tools & Platforms-->
 # 🛠️ Tools & Platforms
@@ -1621,8 +1564,6 @@
   [X-Ways Forensics: Integrated Computer Forensics Software](https://www.x-ways.net/forensics/)
 </details>
 
----
-
 </details>
 
 ---
@@ -1659,8 +1600,6 @@
 ---
 <details>
 
-
-
 <!-- Memory Forensics -->
 
 <summary>Memory Forensics</summary>
@@ -1690,9 +1629,6 @@
 
 ---
 <details>
-
-
-
 
 <!-- Network Monitoring -->
 
@@ -1734,7 +1670,6 @@
     [The Zeek Network Security Monitor](https://zeek.org/)
 </details>
 
----
 </details>
 
 ---
@@ -2072,5 +2007,3 @@
     Free and open-source web application security scanner maintained by OWASP.  
     [The ZAP Homepage](https://www.zaproxy.org/)
 </details>
-
----

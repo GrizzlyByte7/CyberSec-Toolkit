@@ -1281,7 +1281,7 @@
 ---
 
 * **CB Query Overview**
-  [Carbon_Black_query_overview.pdf](Carbon_Black_query_overview.pdf)
+  [Carbon_Black_query_overview.pdf](C:\Users\giann\Downloads\6e7fedc6-8dce-4e9a-80b5-cf6c4ff8d96c_Export-60c151c7-a9db-4ca4-a278-a388581fbbb1\pdfs\Carbon_Black_EDR_Threat_Hunting_Queries.pdf)
 
 ---
 
@@ -1797,3 +1797,4 @@
     Web server scanner that tests for dangerous files, outdated versions, and security issues.  
     [Nikto 2.5 | CIRT.net](https://cirt.net/Nikto2)
 </details>
+

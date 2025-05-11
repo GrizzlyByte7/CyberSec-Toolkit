@@ -1412,6 +1412,7 @@
 # :crystal_ball: Threat Emulation :crystal_ball:
 
 <details>
+<summary>Threat Emulation</summary>
 
   ---
   - **MITRE Engage**  

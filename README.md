@@ -217,6 +217,10 @@
     A website offering free PCAP files and tutorials to practice analyzing malware-related network traffic.  
     [malware-traffic-analysis.net](https://www.malware-traffic-analysis.net/)
 ---
+  - **MetaDefender Cloud OPSWAT**  
+    File, URL, and hash scanning across multiple AV engines.  
+    [MetaDefender](https://www.virustotal.com/](https://metadefender.com/))
+---
   - **Radare2**  
     An open-source framework for reverse engineering and analyzing binaries.  
     [Radare2 | GitHub](https://github.com/radareorg/radare2)

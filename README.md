@@ -947,7 +947,12 @@
   - **Atomic Red Team**  
     Small, portable tests to simulate ATT&CK techniques.  
     [GitHub - redcanaryco/atomic-red-team: Small and highly portable detection tests based on MITRE's ATT&CK.](https://github.com/redcanaryco/atomic-red-team)
-  ---
+---
+  - **MITRE CAR Framework**  
+    The MITRE Cyber Analytics Repository (CAR) is a knowledge base of analytics developed by MITRE based on the MITRE ATT&CK adversary model. CAR defines a data model that is leveraged in its pseudocode representations, but also includes 
+    implementations directly targeted at specific tools (e.g., Splunk, EQL) in its analytics. 
+    [MITRE Cyber Analytics Repository](https://car.mitre.org/)
+---
   - **MITRE ATT&CK Framework**  
     Master resource for adversary techniques and detection mappings.  
     [MITRE ATT&CK®](https://attack.mitre.org/)

@@ -219,7 +219,7 @@
 ---
   - **MetaDefender Cloud OPSWAT**  
     File, URL, and hash scanning across multiple AV engines.  
-    [MetaDefender](https://www.virustotal.com/](https://metadefender.com/))
+    [MetaDefender](https://metadefender.com/)
 ---
   - **Radare2**  
     An open-source framework for reverse engineering and analyzing binaries.  

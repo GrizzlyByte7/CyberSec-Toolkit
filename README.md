@@ -205,6 +205,10 @@
     Malware code reuse detection via binary analysis.  
     [Intezer Analyze](https://analyze.intezer.com/)
 ---
+  - **MalShare**  
+    The MalShare Project is a collaborative effort to create a community driven public malware repository that works to build additional tools to benefit the security community at large.  
+    [MalShare](https://malshare.com/)
+---
   - **Malware Archaeology Cheat-Sheets**  
     Free downloadable cheat sheets summarizing logging, forensic artifacts, and malware detection strategies.  
     [Cheat-Sheets | Malware Archaeology](https://www.malwarearchaeology.com/cheat-sheets)

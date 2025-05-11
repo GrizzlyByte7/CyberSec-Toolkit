@@ -1423,11 +1423,9 @@
 </details>
 
 <br/>
+
 <!-- Tools & Platforms-->
 # 🛠️ Tools & Platforms 🛠️
-
-
-
 
 
 <!-- Disk Forensics-->

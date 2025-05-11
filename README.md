@@ -1409,6 +1409,20 @@
 
 <br/>
 
+# :crystal_ball: Threat Emulation :crystal_ball:
+
+<details>
+
+  ---
+  - **MITRE Engage**  
+    MITRE Engage is a framework for planning and discussing adversary engagement operations that empowers you to engage your adversaries and achieve your cybersecurity goals.
+    [MITRE Engage](https://engage.mitre.org/)
+  
+  ---
+
+</details>
+
+<br/>
 <!-- Tools & Platforms-->
 # 🛠️ Tools & Platforms 🛠️
 

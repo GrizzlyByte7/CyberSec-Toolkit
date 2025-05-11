@@ -920,6 +920,10 @@
     Generic signature format for SIEM detections.  
     [GitHub - SigmaHQ/sigma: Main Sigma Rule Repository](https://github.com/SigmaHQ/sigma)
 ---
+  - **SOC Prime**  
+    Collection of SIEM & EDR algorithms to address your organization-specific use cases and boost Threat Hunting, Cyber Threat Intelligence, and Detection Engineering capabilities. 
+    [SOC Prime Platform](https://tdm.socprime.com/signup)
+---
   - **Threat Hunting 101 Write-up**  
     [ThreatHunting101.pdf](ThreatHunting101.pdf)
 ---
@@ -974,6 +978,10 @@
   - **Security Blue Team Blog**  
     Blog covering defensive cyber topics, detections, and tools.  
     [Blog, News & Cybersecurity Insights | Security Blue Team](https://securityblue.team/blog/)
+---
+  - **SOC Prime**  
+    Collection of SIEM & EDR algorithms to address your organization-specific use cases and boost Threat Hunting, Cyber Threat Intelligence, and Detection Engineering capabilities. 
+    [SOC Prime Platform](https://tdm.socprime.com/signup)
 ---
   - **Uncoder.IO**  
     Converts Sigma rules into SIEM-specific query languages.  

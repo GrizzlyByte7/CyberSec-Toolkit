@@ -66,6 +66,10 @@
     A Linux-based live distro for forensic investigations, focusing on incident response and digital evidence handling.  
     [Deftlinux](http://www.deftlinux.net/)
 ---
+  - **MITRE D3FEND**  
+    A countermeasure knowledge base, but more specifically, a knowledge graph. The graph contains semantically rigorous types and relations that define both the key concepts in the cybersecurity countermeasure domain and the relations necessary to link those concepts to each other.  
+    [MITRE D3FEND](https://d3fend.mitre.org/)
+---
   - **NSRLLookup**  
     A tool or website to check file hashes against the National Software Reference Library (NSRL) to identify known, non-suspicious files.  
     [nsrllookup/README.md at master · rjhansen/nsrllookup](https://github.com/rjhansen/nsrllookup/blob/master/README.md)
@@ -114,6 +118,10 @@
     A digital investigation platform that allows examiners to seamlessly acquire and analyze forensic data from various sources.  
     
     [Magnet Axiom | Digital Forensic Software | Magnet Forensics](https://www.magnetforensics.com/products/magnet-axiom/)
+---
+  - **MITRE D3FEND**  
+    A countermeasure knowledge base, but more specifically, a knowledge graph. The graph contains semantically rigorous types and relations that define both the key concepts in the cybersecurity countermeasure domain and the relations necessary to link those concepts to each other.  
+    [MITRE D3FEND](https://d3fend.mitre.org/)
 ---
   - **The Sleuth Kit (TSK)**  
     A collection of command-line tools and a C library that allows you to analyze disk images and recover files from them. 
@@ -916,6 +924,10 @@
     Community-driven threat hunting resources & tools.  
     [Open Threat Research Forge](https://github.com/OTRF)
 ---
+  - **MITRE D3FEND**  
+    A countermeasure knowledge base, but more specifically, a knowledge graph. The graph contains semantically rigorous types and relations that define both the key concepts in the cybersecurity countermeasure domain and the relations necessary to link those concepts to each other.  
+    [MITRE D3FEND](https://d3fend.mitre.org/)
+---
   - **Sigma HQ**  
     Generic signature format for SIEM detections.  
     [GitHub - SigmaHQ/sigma: Main Sigma Rule Repository](https://github.com/SigmaHQ/sigma)
@@ -1414,10 +1426,18 @@
 <details>
 <summary>Threat Emulation</summary>
 
-  ---
+---
+  - **Atomic Red Team**  
+    Atomic Red Team is an open source library of tests designed to test your organization's security controls, and this website is designed to help security teams better understand Atomic Red Team and the related collection of free and open source tools.  
+    [Atomic Red Team](https://www.atomicredteam.io/invoke-atomicredteam/docs)
+---
   - **MITRE Engage**  
     MITRE Engage is a framework for planning and discussing adversary engagement operations that empowers you to engage your adversaries and achieve your cybersecurity goals.
     [MITRE Engage](https://engage.mitre.org/)
+---
+  - **MITRE D3FEND**  
+    A countermeasure knowledge base, but more specifically, a knowledge graph. The graph contains semantically rigorous types and relations that define both the key concepts in the cybersecurity countermeasure domain and the relations necessary to link those concepts to each other.  
+    [MITRE D3FEND](https://d3fend.mitre.org/).
   
   ---
 

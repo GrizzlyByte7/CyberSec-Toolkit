@@ -915,7 +915,6 @@
 - **LOKI IOC Scanner**
   -  A free, host-based IOC and anomaly scanner developed by Florian Roth. It uses YARA rules, file name patterns, hashes, and anomaly detection to identify signs of compromise on endpoints. Ideal for use during incident response or threat hunting engagements.
   - **[LOKI IOC Scanner](https://github.com/Neo23x0/Loki)**  
-
 ---
   - **MITRE CTID**  
     A MITRE research center that develops open, community-driven resources to advance threat-informed defense practices.  
@@ -940,6 +939,10 @@
   - **SOC Prime**  
     Collection of SIEM & EDR algorithms to address your organization-specific use cases and boost Threat Hunting, Cyber Threat Intelligence, and Detection Engineering capabilities. 
     [SOC Prime Platform](https://tdm.socprime.com/signup)
+---
+  - **Thor Lite**
+    Free IOC and YARA Scanner
+    [Thor Lite: Free Multi-Purpose IOC and YARA Scanner](https://www.nextron-systems.com/thor-lite/)
 ---
   - **Threat Hunting 101 Write-up**  
     [ThreatHunting101.pdf](ThreatHunting101.pdf)

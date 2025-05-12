@@ -97,7 +97,7 @@
 <!-- Digital Forensic -->
 
 <details>
-  <summary>Disk Forensics</summary>
+  <summary>Disk Imaging & Forensics </summary>
 
   - **Encase**  
   A comprehensive digital forensics platform used for data acquisition, analysis, and evidence management.
@@ -952,7 +952,7 @@
 
 ---
 <details>
-<!-- Tactics, Techniques, and Procedures (TTPS) -->
+<!-- Threat Actor TTPs) -->
 
 <summary>Tactics, Techniques, and Procedures (TTPS)</summary>
 

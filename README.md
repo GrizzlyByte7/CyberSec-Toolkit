@@ -2007,7 +2007,10 @@
     Command line reference for Windows CMD, PowerShell, MacOS and Linux  
     [SS64 Command line reference](https://ss64.com/)
 </details>
-
+---
+  - **URLscan.io**  
+    A sandbox for the web that assist in scanning and analysing websites. It is used to automate the process of browsing and crawling through websites to record activities and interactions.
+    [URLscan.io - A sandbox for the web ](https://urlscan.io/)
 ---
 <details>
 
@@ -2044,6 +2047,10 @@
   - **SQLMap**  
     Powerful tool for automating SQL injection detection and exploitation.  
     [sqlmap: automatic SQL injection and database takeover tool](http://sqlmap.org/)
+---
+  - **URLscan.io**  
+    A sandbox for the web that assist in scanning and analysing websites. It is used to automate the process of browsing and crawling through websites to record activities and interactions.
+    [URLscan.io - A sandbox for the web ](https://urlscan.io/)
 ---
   - **Web Security Academy (Burp Suite)**  
     Web security training path by PortSwigger Academy.  

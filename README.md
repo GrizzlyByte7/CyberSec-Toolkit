@@ -950,6 +950,20 @@
     [Uncoder.IO](https://uncoder.io/)
 </details>
 
+<!--Threat Intelligence Resources-->
+<details>
+<summary>Threat Intelligence Resources</summary>
+
+---
+  - **[Abuse.ch](https://abuse.ch/)**  
+  A research project focused on tracking malware, botnets, and malicious infrastructure. It hosts multiple operational platforms to support defensive operations and threat intelligence gathering:
+  
+  - [**MalwareBazaar**](https://bazaar.abuse.ch/): Community-driven platform to share and search malware samples.
+  - [**Feodo Tracker**](https://feodotracker.abuse.ch/): Tracks botnet command and control (C2) infrastructure.
+  - [**SSL Blacklist (SSLBL)**](https://sslbl.abuse.ch/): Maintains a blocklist of malicious SSL certificates and JA3/JA3s fingerprints.
+  - [**URLhaus**](https://urlhaus.abuse.ch/): Focuses on sharing and tracking malware distribution URLs.
+  - [**ThreatFox**](https://threatfox.abuse.ch/): Platform for sharing IOCs (Indicators of Compromise) related to malware operations.
+</details>
 ---
 <details>
 <!-- Threat Actor TTPs) -->

@@ -954,7 +954,7 @@
 <details>
 <!-- Threat Actor TTPs) -->
 
-<summary>Tactics, Techniques, and Procedures (TTPS)</summary>
+<summary>Threat Actor TTPs</summary>
 
   - **Atomic Red Team**  
     Small, portable tests to simulate ATT&CK techniques.  

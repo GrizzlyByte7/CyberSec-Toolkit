@@ -912,6 +912,11 @@
 
 <summary>Threat Hunting</summary>
 
+- **LOKI IOC Scanner**
+  -  A free, host-based IOC and anomaly scanner developed by Florian Roth. It uses YARA rules, file name patterns, hashes, and anomaly detection to identify signs of compromise on endpoints. Ideal for use during incident response or threat hunting engagements.
+  - **[LOKI IOC Scanner](https://github.com/Neo23x0/Loki)**  
+
+---
   - **MITRE CTID**  
     A MITRE research center that develops open, community-driven resources to advance threat-informed defense practices.  
     [The Center for Threat-Informed Defense](https://github.com/center-for-threat-informed-defense)

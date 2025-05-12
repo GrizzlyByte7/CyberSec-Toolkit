@@ -964,6 +964,16 @@
   - [**SSL Blacklist (SSLBL)**](https://sslbl.abuse.ch/): Maintains a blocklist of malicious SSL certificates and JA3/JA3s fingerprints.
   - [**URLhaus**](https://urlhaus.abuse.ch/): Focuses on sharing and tracking malware distribution URLs.
   - [**ThreatFox**](https://threatfox.abuse.ch/): Platform for sharing IOCs (Indicators of Compromise) related to malware operations.
+---
+ - **PhishTool**
+   A platform designed to streamline and automate phishing email analysis. It enriches indicators, parses headers, and integrates with threat intelligence sources to support faster triage and decision-making in SOC/IR environments.
+  [PhishTool](https://www.phishtool.com/) 
+  
+---
+   - **Cisco Talos Intelligence Group**
+  Cisco’s threat intelligence organization providing high-quality, timely, and actionable intel on malware, phishing campaigns, vulnerabilities, and emerging threats. Includes tools like IP/domain reputation, IOC lookups, and detailed malware campaign reports.
+  [Cisco Talos Intelligence Group](https://talosintelligence.com/)
+
 </details>
 
 ---

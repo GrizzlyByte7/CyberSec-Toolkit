@@ -964,7 +964,9 @@
   - [**URLhaus**](https://urlhaus.abuse.ch/): Focuses on sharing and tracking malware distribution URLs.
   - [**ThreatFox**](https://threatfox.abuse.ch/): Platform for sharing IOCs (Indicators of Compromise) related to malware operations.
 </details>
+
 ---
+
 <details>
 <!-- Threat Actor TTPs) -->
 

@@ -488,6 +488,35 @@
 <details>
 <summary>Exploitation</summary>
 
+- **Metasploit Framework**  
+	A powerful exploitation framework used to develop, test, and execute exploit code. Includes payloads, listeners, and post-ex modules.  
+	[Metasploit](https://github.com/rapid7/metasploit-framework)
+
+---
+- **Impacket**  
+	A collection of Python classes and scripts for working with network protocols and performing exploit techniques like SMB relay, Kerberos abuse, and more.  
+	[Impacket](https://github.com/fortra/impacket)
+
+---
+- **CrackMapExec**  
+	Swiss army knife for pentesting Windows/Active Directory environments. Built on top of Impacket for lateral movement and credential spraying.  
+	[CrackMapExec](https://github.com/Porchetta-Industries/CrackMapExec)
+
+---
+- **Evil-WinRM**  
+	Post-exploitation tool for WinRM connections into compromised Windows systems. Useful for shell access and script execution.  
+	[Evil-WinRM](https://github.com/Hackplayers/evil-winrm)
+
+---
+- **SQLMap**  
+	Automated SQL injection detection and exploitation tool. Supports DB takeover, data extraction, and more.  
+	[SQLMap](https://github.com/sqlmapproject/sqlmap)
+
+---
+- **MSFvenom**  
+	Payload generation tool used with Metasploit to create shellcode, backdoors, and stagers in multiple formats.  
+	[MSFvenom](https://docs.rapid7.com/metasploit/msfvenom/)
+
 </details>
 
 ---
@@ -496,6 +525,40 @@
 
 <details>
 <summary>Post-Exploitation</summary>
+
+- **PowerView**  
+	PowerShell tool for post-exploitation Active Directory enumeration and privilege escalation research.  
+	[PowerView](https://github.com/PowerShellMafia/PowerSploit/tree/master/Recon)
+
+---
+- **BloodHound**  
+	Uses graph theory to identify privilege escalation paths and AD abuse techniques. Typically paired with SharpHound for data collection.  
+	[BloodHound](https://bloodhound.readthedocs.io/en/latest/)
+
+---
+- **SharpHound**  
+	Collector for BloodHound that extracts AD objects and relationship data for attack path mapping.  
+	[SharpHound](https://github.com/BloodHoundAD/SharpHound3)
+
+---
+- **Mimikatz**  
+	Post-exploitation classic used for credential dumping, Kerberos ticket abuse, and LSASS scraping.  
+	[Mimikatz](https://github.com/gentilkiwi/mimikatz)
+
+---
+- **LaZagne**  
+	Tool to extract stored credentials from Windows applications and system locations.  
+	[LaZagne](https://github.com/AlessandroZ/LaZagne)
+
+---
+- **Seatbelt**  
+	Post-exploitation enumeration tool designed to grab security-relevant Windows data (tokens, AV config, UAC settings).  
+	[Seatbelt](https://github.com/GhostPack/Seatbelt)
+
+---
+- **WinPEAS / LinPEAS**  
+	Windows and Linux privilege escalation auditing scripts; discover paths to elevate access.  
+	[PEASS-ng](https://github.com/carlospolop/PEASS-ng)
 
 
 </details>
@@ -506,6 +569,30 @@
 <!-- Reporting-->
 <details>
 <summary>Reporting</summary>
+
+- **Dradis**  
+	Team-oriented reporting platform for penetration testers; helps organize and consolidate test data into shareable reports.  
+	[Dradis](https://github.com/dradis/dradis-ce)
+
+---
+- **Faraday**  
+	Collaborative pentest IDE that centralizes findings and reporting in real-time.  
+	[Faraday](https://github.com/infobyte/faraday)
+
+---
+- **MagicTree**  
+	Pentest data collection and reporting tool with scripting support and graph visualizations.  
+	[MagicTree](http://www.gremwell.com/)
+
+---
+- **Serpico**  
+	Simple, extensible reporting tool for pentesters; supports templates and collaboration.  
+	[Serpico](https://github.com/SerpicoProject/Serpico)
+
+---
+- **CherryTree**  
+	Hierarchical note-taking app ideal for managing pentest notes, findings, and screenshots.  
+	[CherryTree](https://www.giuspen.com/cherrytree/)
 
 <!-- Active Directory -->
 </details>

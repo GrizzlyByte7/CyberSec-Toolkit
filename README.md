@@ -438,10 +438,10 @@
 <!-- Scanning & Enumeration-->
 <details>
 <summary>Scanning & Enumeration</summary>
+	
 - **nmap**
 	A powerful network discovery and auditing tool used for host discovery, port scanning, and service enumeration.
-  
-  [Nmap](https://nmap.org/)
+	[Nmap](https://nmap.org/)
 
 ---
 - **Masscan**
@@ -456,19 +456,16 @@
 ---
 - **num4linux-ng**
 	A reimplementation of the classic enum4linux for SMB enumeration on Windows systems.
-
 	[num4linux-ng](https://github.com/cddmp/enum4linux-ng)
 	
 ---
 - **LDAPDomainDump**
 	Dump all Active Directory objects via LDAP with credentials or anon bind.
-
 	[LDAPDomainDump](https://github.com/dirkjanm/ldapdomaindump)
 	
 ---	
 - **Netdiscover**
 	Passive network discovery using ARP requests. Useful for identifying live hosts in a subnet.
-
 	[Netdiscover](https://github.com/alexxy/netdiscover)
 	
 ---
@@ -478,8 +475,8 @@
   
 ---
 - **Nikto**
-	  Web server scanner for detecting common vulnerabilities and misconfigurations.
-  [Nikto](https://github.com/sullo/nikto)
+	 Web server scanner for detecting common vulnerabilities and misconfiguration.
+  	[Nikto](https://github.com/sullo/nikto)
 	
 
 </details>

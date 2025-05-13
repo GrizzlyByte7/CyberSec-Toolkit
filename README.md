@@ -1116,6 +1116,12 @@
   Cisco’s threat intelligence organization providing high-quality, timely, and actionable intel on malware, phishing campaigns, vulnerabilities, and emerging threats. Includes tools like IP/domain reputation, IOC lookups, and detailed malware campaign reports.
   [Cisco Talos Intelligence Group](https://talosintelligence.com/)
 
+---
+- **Valhalla Threat Intelligence Feed**  
+	Valhalla is a commercial YARA rule feed service developed by Nextron Systems. It provides high-quality, curated YARA rules for detecting malware, APTs, and other threats. Used widely in forensic investigations, EDR tuning, threat hunting, and sandbox detections. Free community versions are available with limited signatures.
+	[Valhalla Threat Intelligence Platform](https://valhalla.nextron-systems.com/)
+
+
 </details>
 
 ---
@@ -1284,6 +1290,10 @@
   - **Radare2**  
     An open-source framework for reverse engineering and analyzing binaries.  
     [radare2](https://github.com/radareorg/radare2)
+---
+- **Valhalla Threat Intelligence Feed**  
+	Valhalla is a commercial YARA rule feed service developed by Nextron Systems. It provides high-quality, curated YARA rules for detecting malware, APTs, and other threats. Used widely in forensic investigations, EDR tuning, threat hunting, and sandbox detections. Free community versions are available with limited signatures.
+	[Valhalla Threat Intelligence Platform](https://valhalla.nextron-systems.com/)
 ---
   - **VirusTotal**  
     File, URL, and hash scanning across multiple AV engines.  
@@ -1820,6 +1830,12 @@
 * **Security Blue Team Blog**
   Blog covering defensive cyber topics, detections, and tools.
   [Blog, News & Cybersecurity Insights | Security Blue Team](https://securityblue.team/blog/)
+---
+---
+- **Valhalla Threat Intelligence Feed**  
+	Valhalla is a commercial YARA rule feed service developed by Nextron Systems. It provides high-quality, curated YARA rules for detecting malware, APTs, and other threats. Used widely in forensic investigations, EDR tuning, threat hunting, and sandbox detections. Free community versions are available with limited signatures.
+	[Valhalla Threat Intelligence Platform](https://valhalla.nextron-systems.com/)
+
 
 
 </details>

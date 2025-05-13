@@ -2,6 +2,8 @@
 <br/>
 
 # 🔍 Analysis & Investigation 🔍 
+**Purpose:** This section includes tools used for forensic analysis, artifact review, and malware investigation. They help uncover what happened on a system, extract meaningful artifacts, and analyze memory or file-based indicators.
+
 <!-- Carving Tools --> 
 <details>
 <summary>Carving Tools</summary>
@@ -338,6 +340,8 @@
 <!-- Attack Simulation & Offense Category> -->
 
 # 🚩 Attack Simulation & Offense 🚩 
+**Purpose:** Contains tools and platforms to simulate attacks, run penetration tests, and identify security gaps. Includes recon, exploitation, and CTF platforms for red team operations and training.
+
 
 <!-- Reconnaissance (Information Gathering)-->
 <details>
@@ -723,6 +727,8 @@
 <br />
 
 # 🌐 AI & Search 🌐
+**Purpose:** AI-powered tools and search platforms that enhance cybersecurity research, triage, and enrichment workflows.
+
 
 <details>
 <!-- AI Search Engines -->
@@ -807,6 +813,8 @@
 <br/>
 
 # 🛡️ Defensive Operations 🛡️ 
+**Purpose:** Tools and frameworks for blue team operations — including threat detection, response, threat intel, and hunting.
+
 
 <!-- Defensive Cyber Skill Development -->
 
@@ -1161,6 +1169,8 @@
 
 <!-- Hands On & Training-->
 # 👨‍💻 Hands-On Skills & Training 👨‍💻
+**Purpose:** A collection of training resources, labs, courses, and platforms to build practical cybersecurity skills, including CTFs, scripting, and OS-level exercises.
+
 
 <details>
 <summary>General Cyber Skills</summary>
@@ -1482,6 +1492,8 @@
 
 <!-- Tools & Platforms-->
 # 🛠️ Tools & Platforms 🛠️
+**Purpose:** A curated list of broad-use platforms and specialized tools across forensic, offensive, and utility categories.
+
 
 
 <!-- Disk Forensics-->

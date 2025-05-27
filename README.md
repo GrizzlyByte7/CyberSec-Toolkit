@@ -215,6 +215,10 @@
     Malware code reuse detection via binary analysis.  
     [Intezer Analyze](https://analyze.intezer.com/)
 ---
+- **Malpedia**  
+    A resource for rapid identification and actionable context when investigating malware.  
+    [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/)
+---
   - **MalShare**  
     The MalShare Project is a collaborative effort to create a community driven public malware repository that works to build additional tools to benefit the security community at large.  
     [MalShare](https://malshare.com/)

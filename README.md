@@ -1612,6 +1612,28 @@
 
 <br/>
 
+
+#  🔒Ransomware🔒
+
+<details>
+<summary>Ransomware Intel</summary>
+	
+---
+  - **Ransomch.at**  
+    A collection of real-world ransomware negotiations involving more than 20 ransomware brands, including the infamous REvil, Conti, LockBit or the more recent Dragon Force.  
+    [Ransomchat](https://ransomch.at/).
+	
+---
+  - **Ransomware.live**  
+    An open-source threat intelligence platform created by security researcher Julien Mousqueton. It aggregates and monitors ransomware incidents by scraping data from ransomware groups' Data Leak Sites (DLS), providing real-time insights into global ransomware activities  
+    [Ransomware Live](https://www.ransomware.live/).
+  
+  ---
+
+</details>
+
+<br/>
+
 # :crystal_ball: Threat Emulation :crystal_ball:
 
 <details>

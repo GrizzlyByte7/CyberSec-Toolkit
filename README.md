@@ -1221,6 +1221,12 @@
   - **Splunk Security Content**  
     Official pre-built detection searches and queries.  
     [Splunk Security Content](https://research.splunk.com/)
+
+---
+  - **Splunk Security Content Detections**  
+    A comprehensive repository of pre-built security detections developed by the Splunk Threat Research Team.
+    [Splunk Security Content Detections](https://research.splunk.com/detections/)
+    
 ---
   - **Detection from Splunk Blog**  
     Splunk’s blog posts including queries and detection strategies.  
